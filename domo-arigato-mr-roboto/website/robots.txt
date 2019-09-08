@@ -1,0 +1,2 @@
+User-Agent: Youth
+Disallow: /the-flag.html
