@@ -10,6 +10,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | ---------------------- | ---------------- | ---------- |
 | sample-challenge       | OSINT            | Easy       |
 | domo-arigato-mr-roboto | Web Exploitation | Easy       |
+| bonjour		             | Cryptography	    | Easy       |
 | no-comment             | Web Exploitation | Easy       |
 | hey-thats-pretty-good  | OSINT            | Medium     |
 
