@@ -14,7 +14,8 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | football               | Cryptography     | Easy       |
 | no-comment             | Web Exploitation | Easy       |
 | hey-thats-pretty-good  | OSINT            | Medium     |
-| recall                 | Reverse Engineering | Medium     |
+| recall                 | Reverse Engineering | Medium  |
+| insignificant          | Forensics        | Hard       |
 
 ## How to Contribute
 
