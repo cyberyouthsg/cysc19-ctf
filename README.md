@@ -6,13 +6,16 @@ This repository houses all of the challenges that we have used, or will use, in 
 
 This is the list of challenges within this repository. _Unfortunately for now, this list has to be manually updated. Eventually, we'll shift to automatically building this list by walking the directories in this repository._
 
-| Name                   | Category         | Difficulty |
-| ---------------------- | ---------------- | ---------- |
-| sample-challenge       | OSINT            | Easy       |
-| domo-arigato-mr-roboto | Web Exploitation | Easy       |
-| bonjour		             | Cryptography	    | Easy       |
-| no-comment             | Web Exploitation | Easy       |
-| hey-thats-pretty-good  | OSINT            | Medium     |
+
+| Name                   | Category            | Difficulty |
+| ---------------------- | ------------------- | ---------- |
+| sample-challenge       | OSINT               | Easy       |
+| domo-arigato-mr-roboto | Web Exploitation    | Easy       |
+| bonjour		             | Cryptography	       | Easy       |
+| no-comment             | Web Exploitation    | Easy       |
+| hey-thats-pretty-good  | OSINT               | Medium     |
+| recall                 | Reverse Engineering | Medium     |
+
 
 ## How to Contribute
 
