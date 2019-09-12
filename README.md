@@ -13,6 +13,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | bonjour		             | Cryptography     | Easy       |
 | football               | Cryptography     | Easy       |
 | no-comment             | Web Exploitation | Easy       |
+| let-it-snow            | Forensics        | Easy       |
 | hey-thats-pretty-good  | OSINT            | Medium     |
 | bug-in-the-woods       | Forensics        | Medium     |
 | recall                 | Reverse Engineering | Medium  |
