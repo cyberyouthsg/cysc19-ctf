@@ -17,6 +17,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | bug-in-the-woods       | Forensics        | Medium     |
 | recall                 | Reverse Engineering | Medium  |
 | insignificant          | Forensics        | Hard       |
+| magnify                | Misc             | Easy       |
 
 ## How to Contribute
 
