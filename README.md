@@ -18,6 +18,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | recall                 | Reverse Engineering | Medium  |
 | insignificant          | Forensics        | Hard       |
 | magnify                | Misc             | Easy       |
+| unibase                | Misc             | Medium     |
 
 ## How to Contribute
 
