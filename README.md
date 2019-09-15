@@ -10,16 +10,17 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | ---------------------- | ---------------- | ---------- |
 | sample-challenge       | OSINT            | Easy       |
 | domo-arigato-mr-roboto | Web Exploitation | Easy       |
-| bonjour		             | Cryptography     | Easy       |
+| bonjour                | Cryptography     | Easy       |
 | football               | Cryptography     | Easy       |
 | no-comment             | Web Exploitation | Easy       |
+| magnify                | Misc             | Easy       |
 | let-it-snow            | Forensics        | Easy       |
 | hey-thats-pretty-good  | OSINT            | Medium     |
 | bug-in-the-woods       | Forensics        | Medium     |
-| recall                 | Reverse Engineering | Medium  |
-| insignificant          | Forensics        | Hard       |
-| magnify                | Misc             | Easy       |
+| recall                 | RE               | Medium     |
 | unibase                | Misc             | Medium     |
+| professional-slacker   | Forensics        | Hard       |
+| insignificant          | Forensics        | Hard       |
 
 ## How to Contribute
 
