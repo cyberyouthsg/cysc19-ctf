@@ -15,6 +15,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | no-comment             | Web Exploitation | Easy       |
 | magnify                | Misc             | Easy       |
 | let-it-snow            | Forensics        | Easy       |
+| humpty-dumpty          | Cryptography     | Easy       |
 | hey-thats-pretty-good  | OSINT            | Medium     |
 | bug-in-the-woods       | Forensics        | Medium     |
 | recall                 | RE               | Medium     |
