@@ -9,19 +9,20 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | Name                   | Category         | Difficulty |
 | ---------------------- | ---------------- | ---------- |
 | sample-challenge       | OSINT            | Easy       |
+| hey-thats-pretty-good  | OSINT            | Medium     |
 | domo-arigato-mr-roboto | Web Exploitation | Easy       |
+| no-comment             | Web Exploitation | Easy       |
 | bonjour                | Cryptography     | Easy       |
 | football               | Cryptography     | Easy       |
-| no-comment             | Web Exploitation | Easy       |
-| magnify                | Misc             | Easy       |
-| let-it-snow            | Forensics        | Easy       |
 | humpty-dumpty          | Cryptography     | Easy       |
-| hey-thats-pretty-good  | OSINT            | Medium     |
+| let-it-snow            | Forensics        | Easy       |
 | bug-in-the-woods       | Forensics        | Medium     |
-| recall                 | RE               | Medium     |
-| unibase                | Misc             | Medium     |
+| treasure-chest         | Forensics        | Medium     |
 | professional-slacker   | Forensics        | Hard       |
 | insignificant          | Forensics        | Hard       |
+| magnify                | Misc             | Easy       |
+| unibase                | Misc             | Medium     |
+| recall                 | RE               | Medium     |
 
 ## How to Contribute
 
