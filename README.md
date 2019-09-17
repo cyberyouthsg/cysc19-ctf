@@ -15,6 +15,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | bonjour                | Cryptography     | Easy       |
 | football               | Cryptography     | Easy       |
 | humpty-dumpty          | Cryptography     | Easy       |
+| dictionary             | Cryptography     | Medium     |
 | let-it-snow            | Forensics        | Easy       |
 | bug-in-the-woods       | Forensics        | Medium     |
 | treasure-chest         | Forensics        | Medium     |
