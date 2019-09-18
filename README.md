@@ -23,6 +23,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | insignificant          | Forensics        | Hard       |
 | magnify                | Misc             | Easy       |
 | unibase                | Misc             | Medium     |
+| pixelate               | Misc             | Hard       |
 | recall                 | RE               | Medium     |
 
 ## How to Contribute
