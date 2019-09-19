@@ -25,6 +25,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | unibase                | Misc             | Medium     |
 | pixelate               | Misc             | Hard       |
 | recall                 | RE               | Medium     |
+| arp-spoofed            | Networking       | Easy       |
 
 ## How to Contribute
 
