@@ -26,6 +26,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | pixelate               | Misc             | Hard       |
 | recall                 | RE               | Medium     |
 | arp-spoofed            | Networking       | Easy       |
+| follow-that-stream     | Networking       | Easy       |
 
 ## How to Contribute
 
