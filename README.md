@@ -27,6 +27,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | recall                 | RE               | Medium     |
 | arp-spoofed            | Networking       | Easy       |
 | follow-that-stream     | Networking       | Easy       |
+| mail                   | Networking       | Easy       |
 
 ## How to Contribute
 
