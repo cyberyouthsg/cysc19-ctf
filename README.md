@@ -28,6 +28,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | arp-spoofed            | Networking       | Easy       |
 | follow-that-stream     | Networking       | Easy       |
 | mail                   | Networking       | Easy       |
+| carve-that-flag        | Networking       | Medium     |
 
 ## How to Contribute
 
