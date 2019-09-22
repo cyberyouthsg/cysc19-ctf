@@ -17,6 +17,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | humpty-dumpty          | Cryptography     | Easy       |
 | dictionary             | Cryptography     | Medium     |
 | Asymmetric-1.0         | Cryptography     | Medium     |
+| Asymmetric-2.0         | Cryptography     | Hard       |
 | let-it-snow            | Forensics        | Easy       |
 | bug-in-the-woods       | Forensics        | Medium     |
 | treasure-chest         | Forensics        | Medium     |
