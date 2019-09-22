@@ -28,6 +28,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | unibase                | Misc             | Medium     |
 | pixelate               | Misc             | Hard       |
 | coffee                 | RE               | Easy       |
+| string-cheese          | RE               | Easy       |
 | recall                 | RE               | Medium     |
 | arp-spoofed            | Networking       | Easy       |
 | follow-that-stream     | Networking       | Easy       |
