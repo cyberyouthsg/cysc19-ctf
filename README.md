@@ -12,6 +12,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | hey-thats-pretty-good  | OSINT            | Medium     |
 | domo-arigato-mr-roboto | Web Exploitation | Easy       |
 | no-comment             | Web Exploitation | Easy       |
+| whole-lotta-spam       | Web Exploitation | Easy       |
 | Injection              | Web Exploitation | Medium     |
 | bonjour                | Cryptography     | Easy       |
 | football               | Cryptography     | Easy       |
