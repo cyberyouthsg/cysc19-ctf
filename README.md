@@ -16,6 +16,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | whole-lotta-spam       | Web Exploitation | Easy       |
 | hot-off-the-presses    | Web Exploitation | Medium     |
 | Injection              | Web Exploitation | Medium     |
+| Flagstore				 | Web Exploitation | Medium	 |
 | bonjour                | Cryptography     | Easy       |
 | football               | Cryptography     | Easy       |
 | humpty-dumpty          | Cryptography     | Easy       |
