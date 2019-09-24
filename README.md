@@ -13,6 +13,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | domo-arigato-mr-roboto | Web Exploitation | Easy       |
 | no-comment             | Web Exploitation | Easy       |
 | whole-lotta-spam       | Web Exploitation | Easy       |
+| hot-off-the-presses    | Web Exploitation | Medium     |
 | Injection              | Web Exploitation | Medium     |
 | bonjour                | Cryptography     | Easy       |
 | football               | Cryptography     | Easy       |
