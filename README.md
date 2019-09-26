@@ -29,6 +29,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | professional-slacker   | Forensics        | Hard       |
 | insignificant          | Forensics        | Hard       |
 | magnify                | Misc             | Easy       |
+| box                    | Misc             | Easy       |
 | unibase                | Misc             | Medium     |
 | pixelate               | Misc             | Hard       |
 | coffee                 | RE               | Easy       |
