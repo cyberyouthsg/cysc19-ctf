@@ -30,6 +30,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | insignificant          | Forensics        | Hard       |
 | magnify                | Misc             | Easy       |
 | box                    | Misc             | Easy       |
+| abstract               | Misc             | Medium     |
 | unibase                | Misc             | Medium     |
 | pixelate               | Misc             | Hard       |
 | coffee                 | RE               | Easy       |
