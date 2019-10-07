@@ -31,6 +31,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | magnify                | Misc             | Easy       |
 | basic                  | Misc             | Easy       |
 | box                    | Misc             | Easy       |
+| abstract               | Misc             | Medium     |
 | unibase                | Misc             | Medium     |
 | pixelate               | Misc             | Hard       |
 | coffee                 | RE               | Easy       |
