@@ -36,6 +36,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | coffee                 | RE               | Easy       |
 | string-cheese          | RE               | Easy       |
 | recall                 | RE               | Medium     |
+| wow-thats-fancy        | RE               | Medium   	 |
 | arp-spoofed            | Networking       | Easy       |
 | follow-that-stream     | Networking       | Easy       |
 | mail                   | Networking       | Easy       |
