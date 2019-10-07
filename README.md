@@ -40,6 +40,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | follow-that-stream     | Networking       | Easy       |
 | mail                   | Networking       | Easy       |
 | carve-that-flag        | Networking       | Medium     |
+| look-closer            | Networking	    | Medium	 |
 | socks                  | Programming      | Easy       |
 
 ## How to Contribute
