@@ -43,7 +43,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | mail                   | Networking       | Easy       |
 | carve-that-flag        | Networking       | Medium     |
 | look-closer            | Networking	    | Medium	 |
-| socks                  | Programming      | Easy       |
+| horseback              | Programming      | Easy       |
 | optical                | Programming      | Medium     |
 
 ## How to Contribute

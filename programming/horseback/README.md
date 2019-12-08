@@ -1,8 +1,6 @@
-# Socks
+# Horseback
 
-Ever heard of socket programming? It's very simple, all you need to do is connect and send 32 bytes of the carriage return hexadecimal value to the server.
-
-psst..There's a bunch of resources about socket programming in Python.
+Ever heard of socket programming? It's very simple, all you need to do is connect and send 32 bytes of the carriage return to the server.
 
 ### Hints
 1. Look at the ASCII table for carriage return.
