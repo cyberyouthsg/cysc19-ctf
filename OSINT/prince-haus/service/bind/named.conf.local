@@ -1,0 +1,5 @@
+zone "malwa.re.local" {
+    type master;
+    file "/etc/bind/zones/db.malwa.re.local"; # zone file path
+    allow-transfer { any; };           # ns2 private IP address - secondary
+};

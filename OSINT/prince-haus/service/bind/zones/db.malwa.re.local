@@ -1,0 +1,25 @@
+$ORIGIN malwa.re.local.
+$TTL 86400
+@	SOA	dns1	hostmaster (
+		2001062501 ; serial
+		21600      ; refresh after 6 hours
+		3600       ; retry after 1 hour
+		604800     ; expire after 1 week
+		86400 )    ; minimum TTL of 1 day
+;
+;
+	NS	dns1
+dns1	A	54.254.143.106
+;
+;
+@           IN      TXT         "TXT and URI"
+@           IN      TXT         "clickbait empty flag nonsense something uneedthis"
+clickbait   IN      TXT         "eW91IGhhdmUgbGl0ZXJhbGx5IGJlZW4gYmFpdGVk"
+uneedthis   IN      TXT         "TyBybHk/"
+something   IN      TXT         "aHR0cHM6Ly95b3V0dS5iZS9kUXc0dzlXZ1hjUQ=="
+flag        IN      TXT         "Q1lTKEkgd2lzaCBpdCB3YXMgdGhhdCBlYXN5KQ=="
+empty       IN      TXT         "RG9uJ3QgZmVlbCB0b28gX2VtcHR5XyBoYW5kZWQKTWFrZXMgdGhpbmdzIHJlZ3VsYXIgYWdhaW4gZnJvbSB0aGUgbm9uc2Vuc2UgYW5kIHJlYnVpbGQgZnJvbSB0aGUgc3RhcnQuIApUaGVyZSBpcyBhbHdheXMgYW4gb3JkZXJseSBleHByZXNzaW9uIHRvIHRoaW5ncy4uLi4KCk1heWJl" "IGp1c3QgbWF5YmUgdGhhdCAuLi4uIGlzIGtleSB0byBpdCA="
+nonsense    IN      TXT         "MmE2OTFlODBiODg2MmE2MmYzMzQ0OGY1OWExmmE2dGhpOTFlZDNhMWJjNzI2MjU0ZWU2NDE3ZWJmOWI3NzMyNTEyZWQ0YzNiYjcwN2VlYmM0MjQ3MzhhNmVlMDVhZGFlZTI4ODg0MjlkMzk4NWQ4ODJlMjhmMmE1NDY1NmmE2c2lzOTFljg0YjA2ODM3MDNkOTZjN2E3MDAyZjg5ZmRjYzMxZ" "jMwYTg3ZDRhYWJkZDQzODQ1MmI4NGI3MDM1YjliMmUwMjg4MmQxYmEzYmY3ZTI0OWFhY2IwZWNjMGmmE2aW1wOTFlQ3MWExNzZiOTUzMWI2ZmUxOTM2ZDVkNWRmM2M0OGMzNWRiOWM0MzA2OGFiNmQ2ZTRjOTU2YTExZmNkZTVhOTBlOTI0MWY1ZmYzMjQzYTdiZWU1N2IwZmNiNTM5ZDcyOTViOGEzYzUzM2M0YjMxNWFhNjljYmE3ZT" "A2M2IxYTgxZjRjN2JlN2E4NmNmZDAwMTliZDI0ZDcyMmEzYTU1Y2ZhZjMwYmQxZTdiMjMmmE2b3J0OTFlxYTg4YmU4OTQxYTFlODdjMzU1YjMyZGI2ZTBmNGQ2M2FhZGFjYTJjM2E2NDI4MzE2OTY3ZmE1ZTg4ODIzNTA1YWRmNzgyNGZhZTJiNjZiYzFiZjc2MzcxYzgwYmRjMGViYzI1NzmmE2YW50OTFlFhNjdiNTcxODU0OGQwM2" "M0NmZhMTU0NjExMWZhNjU4MWI1NGJjODNhMTk0YjllMTFmNjI2YmExZDNjMzg1MTFmmE2b2s/OTFllYTA1N2MyNzkxYTE5MDI5N2M5ZmU1MzQ5YWI4NjNiNmU4ODdkYzIxMTUxNTg4NWRiMTc2Njk5ZGU2Nzc2NjRiM2ZhOTgwNDA4YmU3MTU0OTBlNTJhZTVhMWNiMmUxOTUwNWQ4OTdjYmRiNWI3NWRmYTRhMGNkYWZjZjc4ZDdhMz" "Q0NGE5NDZlODE2MGMwZTNiMGExNmI4MmRmmE2YXdkOTFliNzA2MjFkMWNhMmY0Mjk0ZjQxNTY4OWZjZjU0MWQyMzU4MDQyNzNhZjkzMTNkYjI0MThiYmM0Y2M2MGE0ZjljYjQ2ZDU5OWQ5MTA5MTYwNDE4YmQyOWJmMTA0ZjZhMjlhMTJjZTkwMTQ3ZTE2ODAyYmM5MjRkNjAyNjFhZTA3ZmVjZDEyNjEyNDdjY2I1NDkxNTA5YTYxMm" "RmNTZhOGM4M2Y0YWZhMWJkNjU4M2M0OTI5MjZhZWFmMDQ4MGUymmE2Zw==OTFlMGViOWQ4ODY2ZThlMTI="
+
+empty       3600    IN      URI 10 1 "https://pastebin.com/JwF8ZYd3"
+uneedthis   3600    IN      URI 10 1 "https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true)AES_Decrypt(%7B'option':'Base64','string':''%7D,%7B'option':'Base64','string':'initialisationvector1'%7D,'CBC','Raw','Raw',%7B'option':'Hex','string':''%7D)From_Base64('A-Za-z0-9%2B/%3D',true)"
