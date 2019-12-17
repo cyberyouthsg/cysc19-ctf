@@ -11,6 +11,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | sample-challenge       | OSINT            | Easy       |
 | prince-haus            | OSINT            | Easy       |
 | east-india-company     | OSINT            | Easy       |
+| sophia-hull            | OSINT            | Easy       |
 | hey-thats-pretty-good  | OSINT            | Medium     |
 | pierce-the-veil        | OSINT            | Medium     |
 | domo-arigato-mr-roboto | Web Exploitation | Easy       |
