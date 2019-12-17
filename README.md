@@ -9,7 +9,8 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | Name                   | Category         | Difficulty |
 | ---------------------- | ---------------- | ---------- |
 | sample-challenge       | OSINT            | Easy       |
-| queen-haus             | OSINT            | Easy       |
+| prince-haus            | OSINT            | Easy       |
+| east-india-company     | OSINT            | Easy       |
 | hey-thats-pretty-good  | OSINT            | Medium     |
 | pierce-the-veil        | OSINT            | Medium     |
 | domo-arigato-mr-roboto | Web Exploitation | Easy       |
