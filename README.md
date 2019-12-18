@@ -49,7 +49,7 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | look-closer            | Networking	    | Medium	 |
 | horseback              | Programming      | Easy       |
 | optical                | Programming      | Medium     |
-
+| ezpwn                  | pwn              | Easy       |
 ## How to Contribute
 
 The ["Challenges" GitHub project](https://github.com/kaskrex/cys-ctf/projects/1) shows the current state of the challenges in this repo (e.g. To Review, To Merge, etc.).
