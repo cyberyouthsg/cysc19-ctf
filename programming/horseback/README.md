@@ -2,6 +2,8 @@
 
 Ever heard of socket programming? It's very simple, all you need to do is connect and send 32 bytes of the carriage return to the server.
 
+`nc prog.cyberyouth.sg 13502`
+
 ### Hints
 1. Look at the ASCII table for carriage return.
 
