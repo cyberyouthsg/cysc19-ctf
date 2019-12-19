@@ -4,7 +4,7 @@ Its now midnight agent. We have found the HTTP server that the botnet is using. 
 that they are hiding. Decrypt and decode the secret and we can begin to bring down their whole operation.  
   
 HTTP server:  
-```http://web.cysc19.cyberyouth.sg:13008```  
+`http://web.cysc19.cyberyouth.sg:13008`
   
 **NO NMAP, DNS OR bruteforce needed**  
   

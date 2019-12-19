@@ -51,38 +51,21 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | horseback              | Programming      | Easy       |
 | optical                | Programming      | Medium     |
 | ezpwn                  | pwn              | Easy       |
-## How to Contribute
 
-The ["Challenges" GitHub project](https://github.com/kaskrex/cys-ctf/projects/1) shows the current state of the challenges in this repo (e.g. To Review, To Merge, etc.).
+## Information of each challenge folder
+Every challenge folder will have a `README.md` file that details what the challenge is about and how to solve it. The following explains the folders and their role.
 
-### Challenge Creation
+- `distrib` contains all distributable files for all users
+- `generate` contains all relevant source code used to generate the challenge (if not in service directory)
+- `service` contains all the files needed to host the challenge on a server
+- `solution` contains all the solution scripts or files.
 
-Take the following steps when creating a new challenge.
+### Requirements
+Challenges that require hosting uses Docker to isolate the challenges.  
+To install Docker for the common Linux distributions, run the script at: https://get.docker.com/
 
-1. Create a new directory in the root of the repository with your challenge name. Also, create a branch to work on the challenge.
-
-```bash
-mkdir sample-challenge
-git checkout -b sample-challenge
-```
-
-2. Add your challenge into the main challenge table, located in the main README.
-
-<img alt="Challenge table additions" src="https://i.paste.pics/a63b77f609d1ae798b8d1c27525fd521.png?trs=115b59deab7d460455d250c0a61e87ca7f9945da47c1780af66c7ea670d0f499" width="560px" />
-
-3. Once done with the creation of the challenge files, create a README file for the challenge. As seen below, it should contain the following:
-
-    * Description of the challenge (to be displayed in the CTF system)
-    * Deployment instructions (for operations to deploy the challenge)
-    * Solution (how to solve the challenge, assume that the reader has basic knowlege only)
-    * Flag (should be in the `CYS{abcdefg}` format)
-
-![Challenge README](https://i.paste.pics/ac4fd2b8a16a37e2a3232fdf029dae8e.png?trs=115b59deab7d460455d250c0a61e87ca7f9945da47c1780af66c7ea670d0f499)
-
-4. Create a Pull Request from the challenge branch against `master`. Add this PR to the "Challenges" project, in order for the rest of the team to review it.
-
-<img alt="Add to GitHub project" src="https://i.paste.pics/7e5f8adadde7f1c1c4e877457e2fcfed.png?trs=115b59deab7d460455d250c0a61e87ca7f9945da47c1780af66c7ea670d0f499" width="360px" />
-
-5. Once the Pull Request has 2 approvals, it is ready to be merged into `master`. Merge the branch with the "Squash and Merge" option.
-
-<img alt="Squash and Merge option" src="https://i.paste.pics/bff14a3229536e39f31d137bd734aabd.png?trs=115b59deab7d460455d250c0a61e87ca7f9945da47c1780af66c7ea670d0f499" width="560px" />
+### Setting up a challenge
+1. Change your directory to the challenge you would wish to host.
+2. Run the `build.sh` scripts in either the root directory of the challenge or the service directory.
+3. Type `docker inspect <containername>` or enter the docker via `docker exec -it <containername> sh` and `ifconfig` to find the IP address and head to that IP.
+4. When attempting the challenges in your local setup, do take note to change all `*.cyberyouth.sg` to your local ip
