@@ -69,3 +69,17 @@ To install Docker for the common Linux distributions, run the script at: https:/
 2. Run the `build.sh` scripts in either the root directory of the challenge or the service directory.
 3. Type `docker inspect <containername>` or enter the docker via `docker exec -it <containername> sh` and `ifconfig` to find the IP address and head to that IP.
 4. When attempting the challenges in your local setup, do take note to change all `*.cyberyouth.sg` to your local ip
+
+## Authors
+
+[Cyber Youth Singapore](https://cyberyouth.sg) would like to thank the following contributors and challenge authors:
+
+- [kaskrex](https://github.com/kaskrex)
+- [Javiery3889](https://github.com/Javiery3889)
+- [chydarren](https://github.com/chydarren)
+- [Red-Flag-Pole](https://github.com/Red-Flag-Pole)
+- [ravernkoh](https://github.com/ravernkoh)
+- [deveshl](https://github.com/deveshl)
+- [DanielTanTWOfficial](https://github.com/DanielTanTWOfficial)
+- [alloygoh](https://github.com/alloygoh)
+- [Shadowtailx](https://github.com/Shadowtailx)
